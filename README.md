@@ -2,15 +2,10 @@
 	<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=srinivasan-as&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=RAGESH2003&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <h1>
-      Hey there !
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+
 <div align="center">
   <h1>
       Hey there !
